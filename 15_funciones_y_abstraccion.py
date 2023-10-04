@@ -1,3 +1,10 @@
+"""
+En programación, abstracción es realmente solo una forma de simplificar una idea o acción complicada. Veamos cuál es fácilmente la abstracción más común que todo programador sabe que son usos.
+¿Qué es lo primero que aprendes como programador principiante? El Hello World… programa clásico donde imprime un texto en la consola. Pero, ¿alguna vez te has detenido y te has preguntado cómo funciona esto realmente bajo el capó?
+El estándar Hello World en la mayoría de los idiomas generalmente se ve así:
+print (“Hola, mundo”)
+La mayoría de los programadores no saben cómo funciona esta única línea de código. Y tampoco tienen que hacerlo. Todo lo que necesita saber es qué entradas dar a la función print() para que funcione."""
+
 def enumeracion_exhaustiva (objetivo):
     respuesta = 0
 
